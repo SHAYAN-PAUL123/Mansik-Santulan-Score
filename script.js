@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-const API_BASE = "https://mansik-santulan-score-ml.vercel.app";
+const API_BASE = "";
   const form = document.getElementById("predict-form");
   const submitBtn = document.getElementById("submit-btn");
   const resetBtn = document.getElementById("reset-btn");
